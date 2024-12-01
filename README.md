@@ -34,7 +34,7 @@ Requirement Analysis is the process of understanding, documenting, and validatin
 ## Use Case Diagrams
 Use Case Diagrams visually depict system actors and their interactions with the system. They help stakeholders understand the system's functionality.
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](./alx-booking-uc.png)
 
 ## Acceptance Criteria
 Acceptance criteria are specific conditions that must be met for a feature to be considered complete. They ensure alignment with user needs and business goals.
